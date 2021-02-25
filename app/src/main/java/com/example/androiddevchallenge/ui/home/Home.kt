@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package com.example.androiddevchallenge.ui.home
 
 import androidx.annotation.FloatRange
@@ -40,7 +39,6 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.outlined.AccountCircle
 import androidx.compose.material.icons.outlined.Home
 import androidx.compose.material.icons.outlined.Search
-import androidx.compose.material.icons.outlined.ShoppingCart
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -70,7 +68,6 @@ import androidx.core.os.ConfigurationCompat
 import com.example.androiddevchallenge.R
 import com.example.androiddevchallenge.ui.components.JetsnackScaffold
 import com.example.androiddevchallenge.ui.components.JetsnackSurface
-import com.example.androiddevchallenge.ui.home.cart.Cart
 import com.example.androiddevchallenge.ui.home.search.Search
 import com.example.androiddevchallenge.ui.theme.JetsnackTheme
 import dev.chrisbanes.accompanist.insets.navigationBarsPadding

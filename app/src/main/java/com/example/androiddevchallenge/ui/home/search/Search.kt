@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package com.example.androiddevchallenge.ui.home.search
 
 import androidx.compose.foundation.layout.Box
@@ -53,10 +52,10 @@ import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.androiddevchallenge.R
+import com.example.androiddevchallenge.model.Pet
 import com.example.androiddevchallenge.model.SearchCategoryCollection
 import com.example.androiddevchallenge.model.SearchRepo
 import com.example.androiddevchallenge.model.SearchSuggestionGroup
-import com.example.androiddevchallenge.model.Pet
 import com.example.androiddevchallenge.ui.components.JetsnackDivider
 import com.example.androiddevchallenge.ui.components.JetsnackSurface
 import com.example.androiddevchallenge.ui.theme.JetsnackTheme
