@@ -2,12 +2,13 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/mohamedshanan/KittyAdoption/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
-
+AndroidDevChallenge Week #1 - Puppy adoption app
+Lists pets for adoption in different categories and open each pet's details in a different screen. the code is based on [Jetsnack compose sample] (https://github.com/android/compose-samples/tree/main/Jetsnack)
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
